@@ -44,7 +44,7 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
-              "baseHref": "https://caivan.github.io/AngularTravisCIExample/",
+              "baseHref": "https://caivan.github.io/AngularTravisCIExample/ExampleAngularTravis",
               "budgets": [
                 {
                   "type": "initial",
